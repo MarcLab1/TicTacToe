@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_filter_2_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_vs_computer"
+        android:icon="@drawable/ic_computer_black_24dp"
+        android:title="@string/title_vs_computer" />
+
+    <item
+        android:id="@+id/navigation_vs_computer_hard"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="@string/title_vs_computer_hard" />
+
+</menu>

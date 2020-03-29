@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title_home">2 player</string>
+    <string name="title_vs_computer">vs Computer Easy</string>
+    <string name="title_vs_computer_hard">vs Computer Hard</string>
+</resources>
